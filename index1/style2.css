@@ -1,0 +1,12 @@
+
+a:hover{
+    background-color: yellow;
+}
+.container-fluid{
+    background-color: purple;
+}
+
+.row{
+    background-repeat: no-repeat;
+   background-size: cover;
+}
